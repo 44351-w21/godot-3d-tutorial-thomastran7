@@ -53,12 +53,12 @@ size = 19.0
 [node name="Cylinders" type="Spatial" parent="."]
 
 [node name="Cylinder" type="MeshInstance" parent="Cylinders"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -13.8116, -0.876997, -14.0211 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -13.8116, -0.876997, -14.7864 )
 mesh = SubResource( 3 )
 material/0 = SubResource( 4 )
 
 [node name="Cylinder2" type="MeshInstance" parent="Cylinders"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 13.7668, -0.876997, -14.0211 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 13.7668, -0.876997, -14.7864 )
 mesh = SubResource( 3 )
 material/0 = SubResource( 4 )
 
